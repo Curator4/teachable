@@ -1,5 +1,5 @@
 # Made by Curator
-# dev ready
+# dev ready!!
 
 C <- read.csv('caData.csv', header = FALSE)
 labelx <- read.csv('LabelsCremas.csv', header = FALSE)
